@@ -1,0 +1,4 @@
+/node_modules
+/reports
+*.jest.js
+*.jest.js.snap

@@ -1,0 +1,25 @@
+{
+  "name": "saluti",
+  "version": "0.0.0",
+  "description": "A way to log in",
+  "main": "saluti.js",
+  "repository": {
+    "type" : "git",
+    "url" : "https://github.com/bguiz/saluti.git"
+  },
+  "author": "bguiz",
+  "license": "GPL-3.0",
+  "scripts": {
+    "lint": "eslint ./",
+    "test": "jest --config ./jest.config.json",
+    "cover": "jest --coverage --config ./jest.config.json"
+  },
+  "devDependencies": {
+    "eslint": "^3.19.0",
+    "jest": "^20.0.4",
+    "jest-object": "^0.0.1"
+  },
+  "dependencies": {
+    "crypto": "^0.0.3"
+  }
+}

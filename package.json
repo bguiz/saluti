@@ -1,7 +1,7 @@
 {
   "name": "saluti",
   "version": "0.0.0",
-  "description": "A way to log in",
+  "description": "Ways to authenticate",
   "main": "saluti.js",
   "repository": {
     "type" : "git",
